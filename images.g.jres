@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAoAoAAAAAAACqqgAAAKqqqqqqCgAACgCqqqqqAAAAAKqvqqEAAACgqqoaqgAAAKqqqhqhAAAAqqqqGqEAAACgqqoaqgAAAACqr6qhAAAKAKqqqqoAAKqqqqqqCgAAAAAAqqoAAAAAAACgCgAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ショッカー"
+    },
+    "image2": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "image3": {
+        "data": "hwQQAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAKAAAAAAAAqqoAAAAAqqqqqgoAAAAKoKqqqgAAAACgr6GqCgAAAKqqGqoAAACgqqqhqgAAAACqqhqqAAAAAKCvoaoKAAAKoKqqqgAAAKqqqqoKAAAAAACqqgAAAAAAAKAKAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
